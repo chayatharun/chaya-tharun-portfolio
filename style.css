@@ -69,3 +69,11 @@
 .project-card .project-actions {
   margin-top: auto;
 }
+
+.brand-logo {
+    width: 42px;
+    height: 42px;
+    object-fit: contain;
+    border-radius: 8px;
+    flex-shrink: 0;
+}
